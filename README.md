@@ -15,7 +15,7 @@ Furthermore, the culture completely follows Japanese culture. The author lives i
 - A peek into Japanese life and values
 - Use as some kind of test data
 - Utilize the knowledge of the author, who is both a life hacker and an engineer.
-- Load it into the generation AI and use it as a knowledge source
+- Load it into the generative AI and use it as a knowledge source
 etc
 
 ## how to get
