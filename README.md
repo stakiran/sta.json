@@ -4,8 +4,6 @@ Exported json data of https://scrapbox.io/sta/
 ## What is sta.json?
 sta.json is the data exported from my Scrapbox Project "/sta".
 
-- /sta: https://scrapbox.io/sta/
-
 ## About /sta
 /sta is his massive blog of over 23,000 pages, written as a networked notebook similar to Obsidian.
 
